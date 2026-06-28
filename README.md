@@ -72,13 +72,13 @@ report, training history CSV, and summary) to its own `*_saved_results/` folder.
 
 ## Project Structure
 
-├── dataset/                          # 9-class waste images (one folder per class)
-├── glass_anomaly_detection_dataset/  # Broken / Normal glass images
-├── src/                              # Training, evaluation, XAI, and Streamlit app
-├── Test Files/                       # Single-image prediction scripts
-├── *_saved_results/                  # Trained models + reports + confusion matrices
-├── requirements.txt
-└── README.md
+1. dataset/                          # 9-class waste images (one folder per class)
+2. glass_anomaly_detection_dataset/  # Broken / Normal glass images
+3. src/                              # Training, evaluation, XAI, and Streamlit app
+4. Test Files/                       # Single-image prediction scripts
+5. *_saved_results/                  # Trained models + reports + confusion matrices
+6. requirements.txt
+7. README.md
 
 
 ## Notes
